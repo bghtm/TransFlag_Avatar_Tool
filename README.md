@@ -9,7 +9,7 @@
 
 ## 🌐 在线体验
 
-- 直接访问：<https://bghtnya.github.io/TransFlag_Avatar_Tool/>
+- 直接访问：<https://bghtm.github.io/TransFlag_Avatar_Tool/>
 
 ---
 
@@ -35,7 +35,7 @@
 ## 🧭 使用方法
 
 ### 在线使用（推荐）
-1. 打开网站：<https://bghtnya.github.io/TransFlag_Avatar_Tool/>
+1. 打开网站：<https://bghtm.github.io/TransFlag_Avatar_Tool/>
 2. 点击「选择文件」或将图片拖入上传区域  
 3. 右侧显示叠加效果预览  
 4. 点击「下载处理后的头像」，即可获得与原图同分辨率的成品（如 2408×2408）
@@ -75,11 +75,11 @@ node tools/build-flags.mjs
 ## 👤 作者信息
 
 - 作者：**@bghtnya**  
-- 推特：<https://twitter.com/bghtnya>  
-- GitHub：<https://github.com/bghtnya>  
-- 仓库：<https://github.com/bghtnya/TransFlag_Avatar_Tool/>  
-- 贡献者：<https://github.com/bghtnya/TransFlag_Avatar_Tool/graphs/contributors>  
-- 网站：<https://bghtnya.github.io/TransFlag_Avatar_Tool/>
+- 推特：<https://twitter.com/bghtm>  
+- GitHub：<https://github.com/bghtm>  
+- 仓库：<https://github.com/bghtm/TransFlag_Avatar_Tool/>  
+- 贡献者：<https://github.com/bghtm/TransFlag_Avatar_Tool/graphs/contributors>  
+- 网站：<https://bghtm.github.io/TransFlag_Avatar_Tool/>
 
 - 感谢 谷歌 gemini 给出的重大帮助 (x) 
 - 也感谢另外两位项目贡献者！
